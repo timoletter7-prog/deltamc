@@ -112,7 +112,7 @@ const Navbar = () => {
           </div>
 
           {/* Mobile Menu Button and Cart */}
-          <div className="md:hidden flex items-center gap-2">
+          <div className="lg:hidden flex items-center gap-2">
             <CartDrawer />
             <button
               className="text-foreground"
